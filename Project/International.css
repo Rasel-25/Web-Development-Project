@@ -1,0 +1,27 @@
+
+
+#getstarted{
+
+background: url(img/Bat.jpg);
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+min-height: 200px;
+color: white;
+
+.dark-overlay{
+
+	background:overlay;
+
+
+
+	
+}
+
+
+}
+
+.dark-overlay{
+
+	background-color: $dark-overlay;
+}

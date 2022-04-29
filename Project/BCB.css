@@ -1,0 +1,70 @@
+
+$dark-overlay: rgba(0,0,0,0.7);
+
+
+
+
+
+
+
+
+.carousel-item{
+
+
+
+height: 500px;
+
+
+}
+
+h2{
+
+color: red;
+
+}
+
+
+
+.login{
+
+    color: green;
+     padding-top: 35px;
+	padding-left: 500px;
+	text-align: center;
+}
+
+.foot
+{
+
+
+	background-color: white;
+}
+
+
+
+
+#getstarted{
+
+background: url(img/trophy.jpg);
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+min-height: 200px;
+color: white;
+
+.dark-overlay{
+
+	background:overlay;
+
+
+
+	
+}
+
+
+}
+
+.dark-overlay{
+
+	background-color: $dark-overlay;
+}
